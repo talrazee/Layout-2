@@ -25,12 +25,14 @@ header {
 		background-color: #ff3f34;
 		line-height: 80px;
 		text-align: center;
+		font-size: 50px;
 }
 .bar{
 		background-color: #d1ccc0;
 		height: 70px;
 		text-align: center;
 		line-height: 80px;
+		font-size: 40px;
 }
 .content{
 	overflow: hidden;
@@ -46,6 +48,7 @@ header {
 		height: 400px;
 		background-color: #aaa69d;
 		float: left;
+		line-height: 120px;
 }
 .right_content{
 		width: 20%;
@@ -71,12 +74,14 @@ header {
 		width: 50%;
 		background-color: #34ace0;
 		float: left;
+		line-height: 180px;
 }
 .center_right {
 	height: 100%;
 	width: 50%;
 	background-color: #227093;
 	float: right;
+	line-height: 180px;
 }
 footer {
 	background-color: black;
